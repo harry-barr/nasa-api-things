@@ -39,11 +39,21 @@ body {
   font-size: 1.5rem;
   font-weight: 600;
   cursor: pointer;
+  margin-right: 40px;
 }
 .btn-container .generate-space-btn:hover {
   background-color: green;
   color: #0b0121;
 }
+
+.date {
+  padding: 15px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-radius: 30px;
+  border: none;
+}
+
 .space-photo-container {
   display: flex;
   align-items: center;
